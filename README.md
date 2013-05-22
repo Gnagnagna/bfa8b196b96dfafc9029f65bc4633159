@@ -1,2 +1,2 @@
-b1-choplifter
+Choplifter project
 =============
