@@ -1,2 +1,2 @@
-Choplifter project
+LOLlifter project
 =============
